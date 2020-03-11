@@ -1,2 +1,2 @@
-# 3js-thunderstorm
-Lighting, particle and model loading using three.js
+# Circular_Spectrum
+A circular music spectrum using three js
