@@ -1,2 +1,2 @@
-# Circular_Spectrum
-A circular music spectrum using three js
+# Thunderstorm
+A rainy thunderstorm using three js
